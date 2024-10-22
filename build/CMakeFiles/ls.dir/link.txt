@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Werror CMakeFiles/ls.dir/ls.c.o CMakeFiles/ls.dir/print.c.o -o ls 
